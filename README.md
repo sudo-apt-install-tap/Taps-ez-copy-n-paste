@@ -7,6 +7,9 @@ This is a hackpad based project. It has 4 MX keys and 1 0.98" OLED With a RGB le
 
 <img width="491" height="528" alt="image" src="https://github.com/user-attachments/assets/7c240139-c64e-485a-8f67-d74c029802cc" />
 
+This Project Features a Open Design To Facilitate geeky behaviours!
+P.S: THIS WAS TOTALLY 100% NOT BECAUSE I WAS TIRED OF CAD.
+
 <img width="836" height="545" alt="image" src="https://github.com/user-attachments/assets/7f5f5476-25f3-4fb8-b83e-efd7502c729f" />
 
 ## Bill of Materials (BOM)
