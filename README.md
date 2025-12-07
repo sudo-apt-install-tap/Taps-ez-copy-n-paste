@@ -22,3 +22,6 @@ P.S: THIS WAS TOTALLY 100% NOT BECAUSE I WAS TIRED OF CAD.<br>
 | Display  | 0.91" OLED (128×32)       | 1        |
 | Case     | 3D Printed Case           | 1        |
 | PCB      | Custom PCB                | 1        |
+<br>
+<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/b85884db-48ad-4b39-8ed6-7679d6297565" />
+<br> Cost of PCB and Case
