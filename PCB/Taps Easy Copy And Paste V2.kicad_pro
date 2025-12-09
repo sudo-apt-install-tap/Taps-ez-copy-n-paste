@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "FABRICATION/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../Documents/Taps Easy Copy And Paste V2.step",
