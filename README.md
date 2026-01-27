@@ -1,6 +1,8 @@
 # Taps-ez-copy-n-paste
 This is a hackpad based project. It has 4 MX keys and 1 0.91" OLED With a RGB led. The micro controler used is a XIAO 2040. This will allow users to easily use macros like copy past and others.
 
+![IMG-20260127-WA0001](https://github.com/user-attachments/assets/12a24d2c-2374-44cd-951c-da2449abf78c)
+
 <img width="1081" height="604" alt="image" src="https://github.com/user-attachments/assets/f4881594-be19-4aeb-815f-f418c2062f5c" /><br>
 
 <img width="301" height="561" alt="image" src="https://github.com/user-attachments/assets/e8fa9d18-f865-4a04-bf3a-9698c383cbe2" /><br>
